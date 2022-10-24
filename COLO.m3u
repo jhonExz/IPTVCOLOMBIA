@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+#EXTM3U https://raw.githubusercontent.com/ivantapia882804/rasta12/main/prr.txt
 
 #EXTINF:-1 group-title="Claro-COL", Telemundo
 http://190.27.172.226:25000/play/a02g
