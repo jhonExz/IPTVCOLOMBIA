@@ -9,8 +9,8 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 , Telemundo
 http://190.27.172.226:25000/play/a02g
 
-#EXTINF:-1 , Telecafe
-https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 , Univision HD
+http://190.61.41.182:8000/play/a37m/index.m3u8
 
 #EXTINF:-1 , AE Mundo
 http://190.27.172.226:25000/play/a01z
@@ -92,6 +92,9 @@ http://190.27.172.226:25000/play/a01k
 
 #EXTINF:-1 , E Entertainment
 http://190.27.172.226:25000/play/a01s
+
+#EXTINF:-1 , Win Sports+
+http://190.61.41.182:8000/play/a2lo/index.m3u8
 
 #EXTINF:-1 , ESPN
 http://190.27.172.226:25000/play/a01v
