@@ -27,6 +27,9 @@ http://190.27.172.226:25000/play/a01z
 #EXTINF:-1 , Canal Trece +
 https://canaltreceplus-live.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="119" tvg-name="Canal Trece" tvg-logo="https://lh3.googleusercontent.com/-dPA6bh64tcI/XzghIjDoh4I/AAAAAAAA4X0/BDRF4nE5JcMLVsGEmJFyE_uSlqcmK5QmwCK8BGAsYHg/s0/2020-08-15.png", Canal Trece | CO
+https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 , AMC HD
 http://190.27.172.226:25000/play/a0b4
 
