@@ -1,0 +1,340 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",Canal 1
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png",Canal Caracol
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+
+#EXTINF:-1 , Telemundo
+http://190.27.172.226:25000/play/a02g
+
+#EXTINF:-1 tvg-id="Noticiero90Minutos.co" tvg-logo="https://i.imgur.com/iBrl0b8.png",Noticiero 90 Minutos
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+
+#EXTINF:-1 , Univision HD
+http://190.61.41.182:8000/play/a37m/index.m3u8
+
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/512px-Se%C3%B1al_Colombia_logo.svg.png",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184",Platzi TV
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
+#EXTINF:-1 , AE Mundo
+http://190.27.172.226:25000/play/a01z
+
+#EXTINF:-1 , Canal Trece +
+https://canaltreceplus-live.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="119" tvg-name="Canal Trece" tvg-logo="https://lh3.googleusercontent.com/-dPA6bh64tcI/XzghIjDoh4I/AAAAAAAA4X0/BDRF4nE5JcMLVsGEmJFyE_uSlqcmK5QmwCK8BGAsYHg/s0/2020-08-15.png", Canal Trece | CO
+https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 , AMC HD
+http://190.27.172.226:25000/play/a0b4
+
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/512px-Cable_Noticias_logo.svg.png",Cablenoticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CampoTelevision.co" tvg-logo="https://canalcampotv.com/wp-content/uploads/2020/05/logo.png",Campo Televisión (Santa Marta)
+https://video17.virtualtronics.com/streamer/canalcampotv.m3u8
+
+#EXTINF:-1 tvg-id="122" tvg-name="Canal Visión Dorada" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal Visión Dorada | CO
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 , AXN
+http://190.27.172.226:25000/play/a048
+
+#EXTINF:-1 , Animal Planet
+http://190.27.172.226:25000/play/a01q
+
+#EXTINF:-1 , Animal Planet HD
+http://190.27.172.226:25000/play/a0b9
+
+#EXTINF:-1 , BabyFirst
+http://190.27.172.226:25000/play/a09b
+
+#EXTINF:-1 , CARTOONITO FHD
+http://190.27.172.226:25000/play/98
+
+#EXTINF:-1 , CNN Espanol
+http://190.27.172.226:25000/play/a014
+
+#EXTINF:-1 , Canal Estrellas
+http://190.27.172.226:25000/play/a02d
+
+#EXTINF:-1 , Canal Institucional
+http://190.27.172.226:25000/play/a037
+
+#EXTINF:-1 , Canal RCN
+http://190.27.172.226:25000/play/a034
+
+#EXTINF:-1 tvg-id="CTV.co" tvg-logo="https://ctvbarranquilla.com/wp-content/uploads/2022/02/cropped-logo-web.png",CTV
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+
+#EXTINF:-1 , Canal del Congreso
+http://190.27.172.226:25000/play/a038
+
+#EXTINF:-1 , Capital
+http://190.27.172.226:25000/play/a08d
+
+#EXTINF:-1 , Cartoon Network
+http://190.27.172.226:25000/play/a00w
+
+#EXTINF:-1 tvg-id="LatinoKids.uy" tvg-logo="https://i.imgur.com/CBUf3K1.png",LatinoKids
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+
+#EXTINF:-1 , Cartoon Network HD
+http://190.27.172.226:25000/play/a0b6
+
+#EXTINF:-1 , Cinecanal
+http://190.27.172.226:25000/play/a00m
+
+#EXTINF:-1 , Cinecanal HD
+http://190.27.172.226:25000/play/a0b3
+
+#EXTINF:-1 , Cinemax
+http://190.27.172.226:25000/play/a046
+
+#EXTINF:-1 , City TV
+http://190.27.172.226:25000/play/a08c
+
+#EXTINF:-1 , Discovery Channel
+http://190.27.172.226:25000/play/a01p
+
+#EXTINF:-1 , Discovery ID
+http://190.27.172.226:25000/play/a02i
+
+#EXTINF:-1 , Discovery Kids
+http://190.27.172.226:25000/play/a013
+
+#EXTINF:-1 , Discovery Turbo
+http://190.27.172.226:25000/play/a04j
+
+#EXTINF:-1 , Discovery World HD
+http://190.27.172.226:25000/play/a0b2
+
+#EXTINF:-1 , Disney Channel
+http://190.27.172.226:25000/play/a01o
+
+#EXTINF:-1 , Disney Jr
+http://190.27.172.226:25000/play/a01k
+
+#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/EiGdG9p.png",Hiperconectados Televisión
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+
+#EXTINF:-1 , E Entertainment
+http://190.27.172.226:25000/play/a01s
+
+#EXTINF:-1 , Win Sports+
+http://190.61.41.182:8000/play/a2lo/index.m3u8
+
+#EXTINF:-1 , ESPN
+http://190.27.172.226:25000/play/a01v
+
+#EXTINF:-1 , ESPN 2
+http://190.27.172.226:25000/play/a01m
+
+#EXTINF:-1 , ESPN 2 Latin
+http://190.27.172.226:25000/play/a01u
+
+#EXTINF:-1 , ESPN 3
+http://190.27.172.226:25000/play/a04l
+
+#EXTINF:-1 , ESPN 4
+http://190.27.172.226:25000/play/a02s
+
+#EXTINF:-1 , ESPN CO
+http://190.27.172.226:25000/play/a03c
+
+#EXTINF:-1 , ESPN EXTRA HD
+http://190.27.172.226:25000/play/a0b5
+
+#EXTINF:-1 , Enlace
+http://190.27.172.226:25000/play/a011
+
+#EXTINF:-1 , FX
+http://190.27.172.226:25000/play/a04a
+
+#EXTINF:-1 , Fox Sports 2
+http://190.27.172.226:25000/play/a02e
+
+#EXTINF:-1 , Fox Sports 3
+http://190.27.172.226:25000/play/a02f
+
+#EXTINF:-1 , GLITZ HD
+http://190.27.172.226:25000/play/95
+
+#EXTINF:-1 , History Channel
+http://190.27.172.226:25000/play/a00l
+
+#EXTINF:-1 , HomeandHealth
+http://190.27.172.226:25000/play/a02n
+
+#EXTINF:-1 , I-Sat
+http://190.27.172.226:25000/play/a00o
+
+#EXTINF:-1 , Lifetime
+http://190.27.172.226:25000/play/a09c
+
+#EXTINF:-1 , MTV
+http://190.61.41.182:8000/play/a1iz/index.m3u8
+
+#EXTINF:-1 , Nat Geo
+http://190.27.172.226:25000/play/a00k
+
+#EXTINF:-1 , Nat Geo HD
+http://190.27.172.226:25000/play/a0b1
+
+#EXTINF:-1 , Nick Jr
+http://190.27.172.226:25000/play/a04i
+
+#EXTINF:-1 , Nickelodeon
+http://190.27.172.226:25000/play/a00i
+
+#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png",San Isidro TV
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+
+#EXTINF:-1 , Paramount HD
+http://190.27.172.226:25000/play/a0b7
+
+#EXTINF:-1 , RCN Novelas
+http://190.27.172.226:25000/play/a02h
+
+#EXTINF:-1 , STAR CHANNEL
+http://190.27.172.226:25000/play/a00t
+
+#EXTINF:-1 , Senal Colombia
+http://190.27.172.226:25000/play/a039
+
+#EXTINF:-1 , Sin Limites
+http://190.27.172.226:25000/play/a02v
+
+#EXTINF:-1 , Sony
+http://190.27.172.226:25000/play/a047
+
+#EXTINF:-1 , Space
+http://190.27.172.226:25000/play/a049
+
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/P3ZFGx1.png",Canal Visión Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 , SyFy
+http://190.27.172.226:25000/play/a09d
+
+#EXTINF:-1 , TBS
+http://190.27.172.226:25000/play/a02l
+
+#EXTINF:-1 , TCM
+http://190.27.172.226:25000/play/a00u
+
+#EXTINF:-1 , TLC
+http://190.27.172.226:25000/play/a02b
+
+#EXTINF:-1 , TNT
+http://190.27.172.226:25000/play/a00x
+
+#EXTINF:-1 , TNT SERIES FHD
+http://190.27.172.226:25000/play/99
+
+#EXTINF:-1 , TRO
+http://190.27.172.226:25000/play/a06r
+
+#EXTINF:-1 , TV AGRO HD
+http://190.27.172.226:25000/play/96
+
+#EXTINF:-1 tvg-id="MulticanalTelevision.co" tvg-logo="https://i.imgur.com/xIN6nt8.png",Multicanal Televisión
+https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8
+
+#EXTINF:-1 , TV ORINOQUIA
+http://190.27.172.226:25000/play/93
+
+#EXTINF:-1 , TV+ HD
+http://190.27.172.226:25000/play/a0b0
+
+#EXTINF:-1 , TVE
+http://190.27.172.226:25000/play/a012
+
+#EXTINF:-1 , Teleantioquia
+http://190.27.172.226:25000/play/a04b
+
+#EXTINF:-1 , Telecaribe
+http://190.27.172.226:25000/play/a04m
+
+#EXTINF:-1 , Teleislas
+http://190.27.172.226:25000/play/a08b
+
+#EXTINF:-1 , Telenovelas
+http://190.27.172.226:25000/play/a0ap
+
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.imgur.com/39hy97J.png",Telepacífico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png",Galicia TV América
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png",Golden TV
+https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
+
+#EXTINF:-1 , UPDATE
+http://190.27.172.226:25000/play/a075
+
+#EXTINF:-1 , Universal
+http://190.27.172.226:25000/play/a00n
+
+#EXTINF:-1 , ViaX
+http://190.27.172.226:25000/play/a02c
+
+#EXTINF:-1 , Warner
+http://190.27.172.226:25000/play/a01r
+
+#EXTINF:-1 , Win Sports+ HD
+http://190.27.172.226:25000/play/a0b8
+
+#EXTINF:-1 , Zona Latina
+http://190.27.172.226:25000/play/a00q
+
+#EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/zoom_colombia-mediano.png",Zoom
+https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+
+#EXTINF:-1 , suram
+http://190.27.172.226:25000/play/a0bb
+
+#EXTINF:-1 tvg-id="ZuldemaydaCanal13.co" tvg-logo="https://i.imgur.com/lR4DrKS.png",Zuldemayda Canal 13
+https://movil.ejeserver.com/live/zuldemayda.m3u8
+
+#EXTINF:-1 tvg-id="VeoTelevision.co" tvg-logo="https://i.imgur.com/TUhzG2O.png",Veo Televisión 
+https://movil.ejeserver.com/live/veotv.m3u8
+
+#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-logo="https://i.imgur.com/svgW3Fr.png",Vallenato Internacional
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UAOPlay.co" tvg-logo="https://lh3.googleusercontent.com/-tLgCyvI0mh0/XzgjQo6Q8xI/AAAAAAAA4ZM/Su9yAKHJ1dcKi55je1HpyPWfT1JrrX5ZgCK8BGAsYHg/s0/2020-08-15.jpg",UAO Play
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGracia.co" tvg-logo="https://i.imgur.com/b3PYxQZ.png",TVGracia
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TropicalMoonEventosTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png",Tropical Moon Eventos TV
+https://srv.panelcast.net/eventostv/eventostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TropicalMoonSalsaTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png",Tropical Moon Salsa TV
+https://srv.panelcast.net/musictv/musictv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TropicalMoonSomosCulturaTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png",Tropical Moon Somos Cultura TV
+https://srv.panelcast.net/somosculturatv/somosculturatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TropicalMoonUrbanTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png",Tropical Moon Urban TV
+https://srv.panelcast.net/urbantv/urbantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrecePlus.co" tvg-logo="https://i.imgur.com/jySvMsw.png",Trece + 
+https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png",Tastemade en Español
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-logo="https://www.ilce.edu.mx/images/home/ci.png",Canal Iberoamericano
+https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/_definst_/mp4:7NBH6B8L/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNCCartagena.co" tvg-logo="https://i.imgur.com/dJHZfNt.png",Canal CNC Cartagena
+https://cloud2.streaminglivehd.com:1936/8054/8054/playlist.m3u8
